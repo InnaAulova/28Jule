@@ -1,5 +1,5 @@
-**first code*
+**first code**
 
 some python functions
 
-new conde was written
+new code was written
