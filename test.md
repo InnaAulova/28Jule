@@ -8,3 +8,5 @@
 тут
 
 я хочу мало делать и много денег
+
+there is new code from junior programm
